@@ -4,10 +4,10 @@ A simple task manager HTML + JavaScript using Supabase as the database, hosted o
 
 **Student ID:** 73477
 
-- App: https://vistula-team-project-73477.github.io/vistula-task-manager/
-- Contributor page: https://vistula-team-project-73477.github.io/vistula-task-manager/contribution.html
+- App: https://kuna73477.github.io/vistula-task-manager/
+- Contributor page: https://kuna73477.github.io/vistula-task-manager/contribution.html
 
 ## Pull Requests
 
-- Received: https://github.com/vistula-team-project-73477/vistula-task-manager/pull/1
+- Received: https://github.com/kuna73477/vistula-task-manager/pull/1
 - Created: https://github.com/DDM73403/vistula-task-manager/pull/1
